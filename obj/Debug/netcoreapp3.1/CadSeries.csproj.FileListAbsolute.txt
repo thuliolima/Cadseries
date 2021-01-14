@@ -1,0 +1,13 @@
+/home/thuliolima/workspace/CadSeries/obj/Debug/netcoreapp3.1/CadSeries.csprojAssemblyReference.cache
+/home/thuliolima/workspace/CadSeries/obj/Debug/netcoreapp3.1/CadSeries.AssemblyInfoInputs.cache
+/home/thuliolima/workspace/CadSeries/obj/Debug/netcoreapp3.1/CadSeries.AssemblyInfo.cs
+/home/thuliolima/workspace/CadSeries/obj/Debug/netcoreapp3.1/CadSeries.csproj.CoreCompileInputs.cache
+/home/thuliolima/workspace/CadSeries/bin/Debug/netcoreapp3.1/CadSeries
+/home/thuliolima/workspace/CadSeries/bin/Debug/netcoreapp3.1/CadSeries.deps.json
+/home/thuliolima/workspace/CadSeries/bin/Debug/netcoreapp3.1/CadSeries.runtimeconfig.json
+/home/thuliolima/workspace/CadSeries/bin/Debug/netcoreapp3.1/CadSeries.runtimeconfig.dev.json
+/home/thuliolima/workspace/CadSeries/bin/Debug/netcoreapp3.1/CadSeries.dll
+/home/thuliolima/workspace/CadSeries/bin/Debug/netcoreapp3.1/CadSeries.pdb
+/home/thuliolima/workspace/CadSeries/obj/Debug/netcoreapp3.1/CadSeries.dll
+/home/thuliolima/workspace/CadSeries/obj/Debug/netcoreapp3.1/CadSeries.pdb
+/home/thuliolima/workspace/CadSeries/obj/Debug/netcoreapp3.1/CadSeries.genruntimeconfig.cache
